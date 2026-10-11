@@ -13,6 +13,6 @@ Limited Underground builds practical hardware and software for independent, offl
 ## Desktop software
 
 - **Husky Performance by Limited Underground** — Windows automotive diagnostics and analysis software. [Public demonstration releases](https://github.com/Limited-Underground/Husky-Performance-Releases).
-- **Limited Underground Business™** — Offline-first Windows software for small businesses. A free-use version is in testing and is not yet publicly released. [Historical seven-day trial downloads](https://github.com/Limited-Underground/Small-Business-Suite-Releases).
+- **Limited Underground Business™** — Free, offline-first Windows software for small businesses. [Full version 1.0 release and downloads](https://github.com/Limited-Underground/Small-Business-Suite-Releases/releases/tag/v1.0.0).
 
 Project details and current public status are available at [limitedunderground.com](https://limitedunderground.com).
